@@ -35,7 +35,7 @@ Total...........:      R$ 148,00
 
 Baixe o arquivo abaixo. Descompacte na pasta desejada.
 
-[🔗 Download do arquivo .zip](dist/estacionamento.zip)
+[🔗 Download do arquivo .zip](dist/Estacionamento.zip)
 
 Execute utilizando o comando:
 
